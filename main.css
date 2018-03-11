@@ -1,0 +1,17 @@
+aside{
+	margin-top:2rem;
+}
+
+a{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+aside img{
+	border-radius: 10px;
+}
+
+
+aside p:first-child{
+	border-radius: 10px;
+}
